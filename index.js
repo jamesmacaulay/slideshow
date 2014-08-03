@@ -1,6 +1,6 @@
 /** @jsx React.DOM */
 
-var clientID = "06f0e80490044ad993f6cb6fd79e1149";
+var clientID = "38a775f00c064c6a9488eacb726797b4";
 var redirectURI = "http://jamesmacaulay.github.io/slideshow";
 var delay = 3000;
 var tag = "caribana";
