@@ -4,12 +4,17 @@
   "description": "Quick boilerplate for browserify and React modules.",
   "main": "index.js",
   "dependencies": {
-    "react": "~0.8"
+    "react": "~0.11.1",
+    "baconjs": "0.7.19",
+    "react-bacon": "0.0.4",
+    "mori": "0.2.9",
+    "es6-promise": "1.0.0",
+    "jquery": "2.1.1"
   },
   "devDependencies": {
     "browserify": "~2.36.0",
     "envify": "~0.2.0",
-    "reactify": "~0.4.0",
+    "reactify": "~0.14.0",
     "statics": "~0.1.0",
     "uglifyjs": "~2.3.6",
     "watchify": "~0.4.1"
