@@ -48,7 +48,7 @@ var Authenticator = React.createClass({
   },
   componentWillMount: function() {
     if (!this.state.accessToken) {
-      redirectToAuthenticate();
+      this.redirectToAuthenticate();
     }
   },
   render: function() {
